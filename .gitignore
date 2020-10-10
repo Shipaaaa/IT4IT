@@ -35,13 +35,13 @@ backend/build/
 logback.out.xml
 
 backend/src/main/resources/public/
-backend/target
+backend/target/
 backend/.mvn
 backend/mvnw
 frontend/dist/
 frontend/node/
 frontend/node_modules/
 frontend/npm-debug.log
-frontend/target
+frontend/target/
 
 !.mvn/wrapper/maven-wrapper.jar
